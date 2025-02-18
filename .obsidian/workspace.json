@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f7f5fb111655a60e",
+        "id": "39163ba4969e0139",
         "type": "tabs",
         "children": [
           {
-            "id": "0390aba573467621",
+            "id": "4ed7c800a58a3811",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -168,14 +168,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0390aba573467621",
+  "active": "4ed7c800a58a3811",
   "lastOpenFiles": [
+    "DESEC INFORMATION SECURITY/Novo Pentest Profissional/Information Gathering - Business.md",
     "DESEC INFORMATION SECURITY/Novo Pentest Profissional/Information Gathering - Infra.md",
+    "DESEC INFORMATION SECURITY/Novo Pentest Profissional/Dominando o Terminal Linux.md",
     "README.md",
     "DESEC INFORMATION SECURITY/Novo Pentest Profissional/TCP_IP para Pentesters.md",
     "DESEC INFORMATION SECURITY/Novo Pentest Profissional/Swiss Army Knife - Netcat.md",
-    "DESEC INFORMATION SECURITY/Novo Pentest Profissional/Information Gathering - Business.md",
-    "DESEC INFORMATION SECURITY/Novo Pentest Profissional/Dominando o Terminal Linux.md",
     "DESEC INFORMATION SECURITY/Novo Pentest Profissional",
     "DESEC INFORMATION SECURITY/MENU GERAL.md",
     "DESEC INFORMATION SECURITY",
