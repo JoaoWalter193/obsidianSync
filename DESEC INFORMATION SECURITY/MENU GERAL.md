@@ -8,5 +8,8 @@
    - [[Information Gathering - Infra]]
    - [[Information Gathering - Web]]
    - [[Scanning]]
+   - [[Burlando Mecanismos de Defesa]]
+   - [[Trabalhando com o Scapy]]
+   - 
    ---
 
