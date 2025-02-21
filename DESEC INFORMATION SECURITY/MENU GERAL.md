@@ -7,4 +7,6 @@
    - [[Information Gathering - Business]]
    - [[Information Gathering - Infra]]
    - [[Information Gathering - Web]]
+   - [[Scanning]]
    ---
+
